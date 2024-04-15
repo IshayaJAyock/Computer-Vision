@@ -1,4 +1,4 @@
-# Imaging-and-Computer-Vision
+# Computer-Vision
 
 # Imaging 
 
